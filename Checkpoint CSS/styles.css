@@ -1,0 +1,15 @@
+li {
+    float: left;
+  }
+  
+  a {
+    display: inline;
+    padding: 20px;
+    background-color: rgb(231, 147, 147);
+  } 
+  .nav {
+      color: darkred    ;
+  }
+  li{
+      color: darkred;
+  }
